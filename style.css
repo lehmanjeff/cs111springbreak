@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+    background: yellow;
+}
+
+p {
+ color: darkorchid;
+ font-size:18pt;
+ font-family: "Arial89", "Times New Roman", Times, serif;
+ text-indent: .5in;
+}  
+
+ol {
+    font-size:18pt;
+    list-style: lower-alpha;
+}
+
+h1 {
+    color: orange;
+    background: black;
+}
+
+
+h2 {
+    color: pink;
+}
